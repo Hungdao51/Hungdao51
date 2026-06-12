@@ -34,7 +34,7 @@ Hi, I'm **Đào Nhật Hưng**, an IT student at **Hanoi University of Science a
 - 🔥 Interested in **Backend Development**, **UI Design**, and **Full-stack Web Development**
 - 🧠 Currently working with **Java, Spring Boot, ReactJS, VueJS, Angular, MySQL/PostgreSQL**
 - 💻 Practicing **C/C++**, **Java OOP**, REST API development, Git/GitHub, and team collaboration
-- 🌏 Languages: **Vietnamese**, **English IELTS 6.5**, **Japanese JLPT N4**
+- 🌏 Languages: **Vietnamese**, **English**, **Japanese**
 - 🎯 Goal: Build clean, practical, and user-friendly software products
 
 ---
