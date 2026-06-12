@@ -5,12 +5,12 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d6d,100:7c3aed&height=180&section=header&text=Đào%20Nhật%20Hưng&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d6d,50:7c3aed,100:00d4ff&height=190&section=header&text=Đào%20Nhật%20Hưng&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Hungdao51">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF4D6D&center=true&vCenter=true&width=650&lines=IT+Student+at+HUST;Backend+Developer+%7C+Spring+Boot;UI+Design+%26+Frontend+Integration;C%2FC%2B%2B+%7C+Java+%7C+ReactJS;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=FF4D6D&center=true&vCenter=true&width=720&lines=IT+Student+at+HUST;Java+%7C+Spring+Boot+Backend+Developer;UI+Design+%26+Frontend+Integration;ReactJS+%7C+VueJS+%7C+Angular;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,6 +21,8 @@
   <a href="mailto:daonhathung2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-daonhathung2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Profile-Pro%20Style-8957E5?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/HUST-IT%20Student-0EA5E9?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </p>
 
 ---
@@ -30,10 +32,10 @@
 Hi, I'm **Đào Nhật Hưng**, an IT student at **Hanoi University of Science and Technology**.
 
 - 🔥 Interested in **Backend Development**, **UI Design**, and **Full-stack Web Development**
-- 🧠 Currently learning and building projects with **Java, Spring Boot, ReactJS, MySQL/PostgreSQL**
-- 💻 Experienced with **C/C++**, Java, OOP, Git/GitHub, and team-based software projects
+- 🧠 Currently working with **Java, Spring Boot, ReactJS, VueJS, Angular, MySQL/PostgreSQL**
+- 💻 Practicing **C/C++**, **Java OOP**, REST API development, Git/GitHub, and team collaboration
 - 🌏 Languages: **Vietnamese**, **English IELTS 5.5**, **Japanese JLPT N4**
-- 🎯 Goal: Improve my real-world development skills and become a better software engineer
+- 🎯 Goal: Build clean, practical, and user-friendly software products
 
 ---
 
@@ -52,6 +54,8 @@ Hi, I'm **Đào Nhật Hưng**, an IT student at **Hanoi University of Science a
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/ReactJS-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/VueJS-35495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -69,6 +73,28 @@ Hi, I'm **Đào Nhật Hưng**, an IT student at **Hanoi University of Science a
   <img src="https://img.shields.io/badge/VS_Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## ⚡ Main Development Focus
+
+> This section highlights my current learning and development focus.
+
+```txt
+Java & Object-Oriented Programming     █████████░░   85%
+Spring Boot / REST API                 ████████░░░   80%
+Frontend Integration                   ███████░░░░   70%
+ReactJS / VueJS / Angular              ███████░░░░   70%
+Database Design                        ███████░░░░   70%
+Git / Team Collaboration               ████████░░░   80%
+Japanese Learning                      ██████░░░░░   JLPT N4 → N3
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Main%20Stack-Java%20%2B%20Spring%20Boot-FF6B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%20Stack-React%20%7C%20Vue%20%7C%20Angular-00D4FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
@@ -131,25 +157,19 @@ GitHub: [github.com/Hungdao51/OOPLab-761935-20235737-DaoNhatHung](https://github
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hungdao51&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hungdao51&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hungdao51&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hungdao51&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=TypeScript,CSS,HTML" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hungdao51&theme=radical&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hungdao51&theme=redical&hide_border=true&area=true" />
+</p>
 
-## 🎯 Current Focus
-
-```txt
-Backend Development    █████████░░   Spring Boot, REST API
-Frontend Integration   ████████░░░   ReactJS, UI implementation
-Database Design        ███████░░░░   MySQL, PostgreSQL
-Japanese Learning      ██████░░░░░   JLPT N4 → N3
-Team Collaboration     ████████░░░   Git, meetings, code review
-```
+> Note: The language card is filtered to focus on main programming languages and hide markup/style-heavy repositories.
 
 ---
 
@@ -165,5 +185,5 @@ Team Collaboration     ████████░░░   Git, meetings, code r
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:ff4d6d&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7c3aed,100:ff4d6d&height=120&section=footer" />
 </p>
